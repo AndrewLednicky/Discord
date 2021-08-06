@@ -1,3 +1,6 @@
 git remote add origin https://discord.com/api/webhooks/821544150461317140/iSfNl71qujQn-Fm-jcfhhZ3fhJf2qEQ1DJXD2Y2bf9SuBrowKDJA8t62JI2bUnu1FOSy/github
 git branch -M main
 git push -u origin main
+{
+  "content": "{{https://www.youtube.com/watch?v=JIGI8XZC0EQ}}"
+}
